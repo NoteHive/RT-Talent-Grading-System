@@ -9,11 +9,11 @@ Following are the categories of the RT Talent Grading System Sheet.
  * Love
  * Kindness
 2. SILK YACHT
-	• Yoga
-	• ART
-	• CAFÉ
-	• HOME
-	• TECH
+* YOGA
+* ART
+* CAFÉ
+* HOME
+* TECH
 3. SILK WOMEN
 
 ### DREAM ASSESSMENT
