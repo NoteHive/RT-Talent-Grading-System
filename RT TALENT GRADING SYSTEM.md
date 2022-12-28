@@ -4,10 +4,10 @@ The File contains the research and points that need to  be added in the RT Talen
 Following are the categories of the RT Talent Grading System Sheet. 
 ### SILK ASSESSMENT
 1. SILK Life
-	• Strength
-	• Intelligence
-	• Love
-	• Kindness
+ * Strength
+ * Intelligence
+ * Love
+ * Kindness
 2. SILK YACHT
 	• Yoga
 	• ART
