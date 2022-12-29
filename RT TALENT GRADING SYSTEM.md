@@ -53,4 +53,18 @@ Following are the categories of the RT Talent Grading System Sheet.
 5. Hive MentalitY
 6. Agile Methodology
 
-   
+## DEVELOPMENT ASSESSMENT
+1. Logic
+2. DevOps
+ * SDLC
+3. ITIL
+4. System Design
+5. Atomic Modeling
+6. Mindful Programming
+7. App Development
+ * Differentiation of languages
+ * Front-end development
+ * Back-end development
+ * Product Strategy
+8. Open Source
+9. Artificial Intelligence
