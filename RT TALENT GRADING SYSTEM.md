@@ -119,5 +119,15 @@ Following are the categories of the RT Talent Grading System Sheet.
 21. Community Living
 22. SMART STAR
 
+## PHYSICAL DEMANDS
+1. Tech
+   * Sound equipment
+   * Video equipment
+   * Internet
+2. Office furniture
+3. Show up on video calls.
+4. GitHub
+5. Visual Studio Code
+
 
 
