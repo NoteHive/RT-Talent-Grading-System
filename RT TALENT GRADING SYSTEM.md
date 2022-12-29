@@ -129,5 +129,19 @@ Following are the categories of the RT Talent Grading System Sheet.
 4. GitHub
 5. Visual Studio Code
 
+## WORK ENVIRONMENT
+1. Ideal work environment
+2. Ideal Career Roles
+3. Leader
+4. Manager
+5. Team
+6. Teamwork skills
+7. Communication style for environment
+8. Long-term goals in work environment
+9. Environmental Conflicts
+10. Human environmental issues
+11. RevelTek work environment
+
+
 
 
