@@ -34,10 +34,10 @@ Following are the categories of the RT Talent Grading System Sheet.
 3. Dream Playbook
 4. 7 Steps to perfection
 5. Vision Board
-6. Dream Sourcing 
-	• Awaken The OM
-	• Feel Tantric Flow
-	• Light The Path
-	• Create Divine
+6. Dream Sourcing
+* Awaken The OM
+* Feel Tantric Flow
+* Light The Path
+* Create Divine
 
    
