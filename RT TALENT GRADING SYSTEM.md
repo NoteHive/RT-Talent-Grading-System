@@ -83,3 +83,16 @@ Following are the categories of the RT Talent Grading System Sheet.
 10. EXCUATIVE PRESENCE
 11. DEEP THINKING
 
+## EXPERIENTIAL LEARNING
+1. Explore
+2. Experience
+  * Concrete experience
+  * Reflective observation
+  * Abstract conceptualization
+  * Active experimentation
+ 3. Share
+ 4. Process
+ 5. Generalize
+ 6. Apply
+
+
