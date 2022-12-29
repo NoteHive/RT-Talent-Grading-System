@@ -40,4 +40,17 @@ Following are the categories of the RT Talent Grading System Sheet.
 * Light The Path
 * Create Divine
 
+## CURIOSITY ASSESSMENT
+1. The SMILE Method™
+2. 5 Cs of 21st Century Learning
+* Collaboration 
+* Communication
+* Character
+* Critical Thinking
+* Creativity
+3. The Future of Work
+4. Advance Notebook Application
+5. Hive MentalitY
+6. Agile Methodology
+
    
