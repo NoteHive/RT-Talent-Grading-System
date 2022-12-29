@@ -95,4 +95,29 @@ Following are the categories of the RT Talent Grading System Sheet.
  5. Generalize
  6. Apply
 
+## REVELTEK ASSESSMENT
+1. Timmsi Training 
+2. SILK Life™
+3. Curiosity Community
+4. Tao Lifestyle
+5. Our Impact
+6. Diversity, Equity, & Inclusion
+7. The Modern Employee
+8. Dress Code
+9. Mindfulness
+10. Business Etiquette
+11. Technology Advocate
+12. Hive Mentality
+13. Communications
+14. Sharing & Collaboration
+15. Workspace
+16. Feng Shui
+17. Work/Life Balance
+18. Benefits & Compensation
+19. Performance Salary
+20. Ongoing Education
+21. Community Living
+22. SMART STAR
+
+
 
