@@ -15,13 +15,32 @@ In essence, ikigai is a practical approach to figuring out that nagging question
 ## 5. THOUGHT LEADERSHIP ASSESSMENT
 
 ## 6. EXPERIENTIAL LEARNING ASSESSMENT
-### 5. Active experimentation
-Requires employees to be flexible and adaptable. The interviewer may ask this question to determine if applicant is comfortable with change and can adjust quickly in the workplace. The answer should show how applicant enjoy working in a fast-paced environment and how the applicant have experience adapting to changing situations.
-#### Question: Do you enjoy working in a fast-paced environment where tasks can change quickly?
 
 ## 7. REVELTEK ASSESSMENT
 
 ## 8. PHYSICAL DEMANDS 
+
+ ### 1. INTERNET:
+ 
+ *Question:* Do you have unlimited high speed internet.
+ 
+ ### VIDEO EQUIPMENT
+ 
+ ### OFFICE FURNITURE
+ 
+ ### VUDEO CALL SHOWUP
+ 
+ ### GITHUB
+ 
+ *Question 1:* How long have you been working on GitHub, on and off, and how many years total? 
+ 
+ *Question 2:* Have a GitHub account? If yes, do send me the link to your GitHub profile so I may view your contribution.
+ 
+ *Question 3:* Do you have a GitHub profile? If so, what are your goals? Do you code or do you do anything else?
+ 
+ ### VISUAL STUDIO CODE
+
+*Question:* How many years experience do you  have in Visual Studio Code?	
 
 ## 9. WORK ENVIRONMENT
 
