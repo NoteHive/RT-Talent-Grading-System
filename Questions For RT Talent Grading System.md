@@ -15,6 +15,9 @@ In essence, ikigai is a practical approach to figuring out that nagging question
 ## 5. THOUGHT LEADERSHIP ASSESSMENT
 
 ## 6. EXPERIENTIAL LEARNING ASSESSMENT
+### 5. Active experimentation
+Requires employees to be flexible and adaptable. The interviewer may ask this question to determine if applicant is comfortable with change and can adjust quickly in the workplace. The answer should show how applicant enjoy working in a fast-paced environment and how the applicant have experience adapting to changing situations.
+#### Question: Do you enjoy working in a fast-paced environment where tasks can change quickly?
 
 ## 7. REVELTEK ASSESSMENT
 
