@@ -26,6 +26,8 @@ In essence, ikigai is a practical approach to figuring out that nagging question
  
  ### VIDEO EQUIPMENT
  
+ *Question* Do you have webcam for computer or laptop.	
+ 
  ### OFFICE FURNITURE
  
  ### VUDEO CALL SHOWUP
