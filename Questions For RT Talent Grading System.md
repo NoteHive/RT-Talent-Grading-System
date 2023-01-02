@@ -40,9 +40,18 @@ In essence, ikigai is a practical approach to figuring out that nagging question
  
  *Question 3:* Do you have a GitHub profile? If so, what are your goals? Do you code or do you do anything else?
  
+ *Question 4:* "Could you tell me about your experience with GitHub? How long have you been using it for and in what types of projects?"
+ 
+ *Question 5:* "How comfortable are you with using GitHub's command line interface and other advanced features? Could you provide some examples of how you have used them in the past?"
+ 
  ### VISUAL STUDIO CODE
 
-*Question:* How many years experience do you  have in Visual Studio Code?	
+*Question 1:* How many years experience do you  have in Visual Studio Code?	
 
+*Question 2:* "What features of Visual Studio Code do you find most useful in your workflow? Could you provide some examples of how you have used them?"
+
+*Question 3:* "How familiar are you with Visual Studio Code's support for different programming languages and frameworks? Could you provide some examples of your experience using it with specific technologies?"
+
+ *Question 4:* "Could you describe a specific project or challenge that you faced while using Visual Studio Code, and how you were able to overcome it?"
 ## 9. WORK ENVIRONMENT
 
