@@ -13,6 +13,32 @@ In essence, ikigai is a practical approach to figuring out that nagging question
 ## 4. DEVELOPMENT ASSESSMENT
 
 ## 5. THOUGHT LEADERSHIP ASSESSMENT
+#### INSIGHTFULNESS
+ Question: How do you view the importance of insightfulness in decision-making and problem-solving, and what strategies do you recommend?
+#### SITUATIONAL AWARENESS
+ Question: How is situational awareness important in emergency situations?	
+#### HIVE MENTALITY
+ Question: 
+#### SWARM INTELLIGENCE
+ Question: What is importance of SWARM Intelligence in your professional life?	
+#### AUTOMATION
+ Question: What is your perspective on the importance of automation and how do you see it shaping the future of work?
+#### ACTIVE LISTENING
+ Question: Tell me about a time when you had to listen to someone else's perspective or ideas  and how you demonstrated active listening during that conversation?	
+#### SCRUM MANAGEMENT
+ Question: What is your perspective on the importance of Scrum management in agile software development?	
+#### DATA DRIVEN DECISIONS
+ Question: How do you view the importance of data-driven decision-making, and how do you recommend organizations go about incorporating data into their decision-making processes?"	
+#### PUNCTUALITY 
+ Question: How do you view the importance of punctuality in professional settings, and what strategies do you recommend for individuals and organizations to foster a culture of punctuality?	
+#### EXECUTIVE PRESENCE
+ Question:
+#### DEEP THINKING
+ Question:
+
+
+
+
 
 ## 6. EXPERIENTIAL LEARNING ASSESSMENT
 
