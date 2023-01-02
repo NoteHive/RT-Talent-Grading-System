@@ -1,5 +1,8 @@
 # NOTES RELATED TO QUESTIONS OF RT TALENT GRADING SYSTEM
-## 1. SILK ASSESSMENT
+## 1. SILK ASSESSMENT 
+##### *SILK Home questions:*  1. Can you describe your any experience with interior decorating and design? 
+2. Do you have any goals or aspirations related to your career in the hospitality industry? 
+##### *SILK Tech questions: 1.
 
 ## 2. DREAM ASSESSMENT
  ### 1. IKIGAI: 
