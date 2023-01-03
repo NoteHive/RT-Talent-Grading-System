@@ -71,13 +71,22 @@ In essence, ikigai is a practical approach to figuring out that nagging question
  
  *Question 3:* Do you have a GitHub profile? If so, what are your goals? Do you code or do you do anything else?
  
+ *Question 4:* "Could you tell me about your experience with GitHub? How long have you been using it for and in what types of projects?"
+ 
+ *Question 5:* "How comfortable are you with using GitHub's command line interface and other advanced features? Could you provide some examples of how you have used them in the past?"
+ 
  ### VISUAL STUDIO CODE
  
  Visual Studio Code Insider is a version of Visual Studio Code that includes the latest features and improvements that are still being developed. It is updated frequently and is intended for users who want to try out the latest features and provide feedback to the development team.
  
  The Visual Studio Code Insider program is open to anyone who is interested in trying out the latest builds and providing feedback on their experiences. To get started, you can download the latest build of Visual Studio Code Insider from the Visual Studio Code Insider website.
 
-*Question:* How many years experience do you  have in Visual Studio Code?	
+*Question 1:* How many years experience do you  have in Visual Studio Code?	
 
+*Question 2:* "What features of Visual Studio Code do you find most useful in your workflow? Could you provide some examples of how you have used them?"
+
+*Question 3:* "How familiar are you with Visual Studio Code's support for different programming languages and frameworks? Could you provide some examples of your experience using it with specific technologies?"
+
+ *Question 4:* "Could you describe a specific project or challenge that you faced while using Visual Studio Code, and how you were able to overcome it?"
 ## 9. WORK ENVIRONMENT
 
