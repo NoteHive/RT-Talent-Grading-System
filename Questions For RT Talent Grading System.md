@@ -116,3 +116,13 @@ To show up for a video call, you will need to ensure that you have a stable inte
  *Question 4:* "Could you describe a specific project or challenge that you faced while using Visual Studio Code, and how you were able to overcome it?"
 ## 9. WORK ENVIRONMENT
 
+What does a good/ideal work environment look like to you?	
+What values are most important to you as a leader?	
+How does a manager recognize or highlight employees' work?	
+Do you prefer teamwork or working independently?	
+What can you do to motivate a team? 	
+Which communication style is better to maintain a healthy working environment?	
+How can you take part in improving the work environment? 	
+Explain a situation when you or any peer had a conflict at work and how you handled it.	
+we as humans are playing postive or negative role in human environment? If negative how to cope up with these issues? 	
+What one word would you use to describe RevelTek Inc. work culture?	
