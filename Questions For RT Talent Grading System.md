@@ -39,13 +39,111 @@ In essence, ikigai is a practical approach to figuring out that nagging question
 #### DEEP THINKING
  Question:
 
-
-
-
-
 ## 6. EXPERIENTIAL LEARNING ASSESSMENT
 
 ## 7. REVELTEK ASSESSMENT
+
+### TIMMSI TRAINING
+
+### SILK LIFE™
+
+We have developed The SILK Initiative™, by combining a focus 
+on Strength: through health and fitness, Intelligence: through 
+business education, job skills, international relations & 
+awareness, Love: through family, friends, and a cooperative 
+attitude, and Kindness: through community development and 
+compassion for our fellow humans. We empower communities 
+internationally to unite thousands of businesses under one 
+vision and brand to create sustainable energy for their families.
+
+*Question 1:* Tell us about yourself. Do you value your family, your health, and the practise of love and kindness?
+
+### CURIOSITY COMMUNITY
+
+
+### TAO LIFESTYLE
+
+Tao Lifestyle goal is to provide 
+inspiration for those who want to live in 
+sustainable communities and to act as 
+role models for a resilient community 
+which reflects GEN values. We provide 
+training, mentorship, community 
+immersion, and guide ecovillages & 
+ecovillage leaders with our GEN Village 
+Principles. We are STEAM focused and 
+create augmented communities. The 
+lifestyle we live in is filled with health, 
+science, family, fun and wholesomeness.
+
+*Question 1:* Tell us about your goal and or do you want to join our culture
+
+### bOUR IMPACT
+
+### DIVERSITY, EQUITY, & INCLUSION
+
+### THE MODERN EMPLOYEE
+
+### DRESS CODE
+
+### MINDFULLNESS
+
+### BUISNESS ETIQUETTE
+
+### TECHNOLOGY ADVOATE
+
+### HIVE MENTALITY
+
+Use our unique strategy to make best use of digital tools which 
+blend the best aspects of organization, flexibility, and 
+productivity. Find your Focus with members all over the world.
+
+*Question 1:* Tell How you can build your own Hive MENTALITY?
+
+### COMMUNICATIONS
+
+### SHARING & COLLABORATION
+
+### WORKSPACE
+
+### FENG SHUI
+
+### WORK/LIFE BALANCE
+
+### BENEFITS & COMPENSATION
+
+### PERFORMANCE SALARY
+
+### ONGOING EDUCATION
+
+Ongoing education is the means through 
+which you may keep moving forward on 
+the long road to betterment. People 
+pursue this degree to improve their 
+professional skills. Companies also 
+search for suitable people in such a 
+competitive atmosphere as the current 
+one. They applaud and encourage the 
+proactive attitude of continuing to learn 
+to improve one's skills. Continuing 
+education is the most effective approach 
+to keep up with the current trends in 
+your industry or breakthroughs in a 
+particular field
+
+
+
+### COMMUNITY LIVING
+
+### SMART STAR
+
+SMART STAR is an integral part of the Future of Task Management. It is a way for you to discuss your task and project through your 
+achievements, accomplishments, and hard work. It's about taking ownership of your job and showing others that you're proud of
+what you do. We are of the opinion that if you take communicate clearly in the work that you have planned or are doing, then the 
+project will have more success. This is a part of “Requirement Engineering” and is a continuous step in our daily tasks towards 
+finishing a goal. When done frequently, it encourages other people to get excited about the project as well.
+
+*Question 1:* How you will describe your STAR?
 
 ## 8. PHYSICAL DEMANDS 
 
@@ -116,13 +214,3 @@ To show up for a video call, you will need to ensure that you have a stable inte
  *Question 4:* "Could you describe a specific project or challenge that you faced while using Visual Studio Code, and how you were able to overcome it?"
 ## 9. WORK ENVIRONMENT
 
-What does a good/ideal work environment look like to you?	
-What values are most important to you as a leader?	
-How does a manager recognize or highlight employees' work?	
-Do you prefer teamwork or working independently?	
-What can you do to motivate a team? 	
-Which communication style is better to maintain a healthy working environment?	
-How can you take part in improving the work environment? 	
-Explain a situation when you or any peer had a conflict at work and how you handled it.	
-we as humans are playing postive or negative role in human environment? If negative how to cope up with these issues? 	
-What one word would you use to describe RevelTek Inc. work culture?	
