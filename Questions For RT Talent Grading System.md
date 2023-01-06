@@ -223,5 +223,14 @@ Work-life balance: The company should support a healthy work-life balance and of
 Professional development: The company should provide opportunities for employees to learn and grow, both personally and professionally.
 Positive culture: The company culture should be positive and supportive, with a focus on teamwork, collaboration, and mutual respect.
 
-#### QUESTION: What does a good/ideal work environment look like to you?	
+#### QUESTION 1: What does a good/ideal work environment look like to you?	
+#### QUESTION 2: What values are most important to you as a leader?	
+#### QUESTION 3: How does a manager recognize or highlight employees' work?	
+#### QUESTION 4: Do you prefer teamwork or working independently?	
+What can you do to motivate a team? 	
+Which communication style is better to maintain a healthy working environment?	
+How can you take part in improving the work environment? 	
+Explain a situation when you or any peer had a conflict at work and how you handled it.	
+we as humans are playing postive or negative role in human environment? If negative how to cope up with these issues? 	
+What one word would you use to describe RevelTek Inc. work culture?
 
