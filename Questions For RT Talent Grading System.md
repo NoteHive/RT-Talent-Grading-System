@@ -167,13 +167,25 @@ finishing a goal. When done frequently, it encourages other people to get excite
  
  ### VIDEO EQUIPMENT
  
+ Video equipment refers to the various devices that are used to capture, record, and transmit video. These may include cameras, microphones, lighting equipment.
+ 
  *Question* Do you have webcam for your computer or laptop?	
+ 
+ *Question* Which kind of video equipment you us for video meeting?
  
  ### OFFICE FURNITURE
  
- *Question* Do you have proper sitting plan?
+You will likely need some basic furniture to set up a comfortable and functional home office. Some common pieces of office furniture that may be useful for remote work
  
- ### VUDEO CALL SHOWUP
+ *Question 1* Do you have proper sitting plan?
+ 
+*Question 2* Desk: You'll need a flat surface to work on, whether it's a traditional desk or a standing desk.
+
+*Question 3* Chair: Choose a chair that is comfortable and supportive, as you'll likely be sitting for long periods of time.
+
+*Question 4* Lighting: Good lighting is important for a comfortable work environment. Consider adding a desk lamp or other sources of light to your home office.
+ 
+ ### VIDEO CALL SHOWUP
  
  A video call, also known as a videoconference, is a live, audio-visual connection between two or more people using the internet. Video calls allow people to communicate with each other using audio and video, and are often used as an alternative to in-person meetings or phone calls.
  
@@ -213,24 +225,4 @@ To show up for a video call, you will need to ensure that you have a stable inte
 
  *Question 4:* "Could you describe a specific project or challenge that you faced while using Visual Studio Code, and how you were able to overcome it?"
 ## 9. WORK ENVIRONMENT
-### 1. IDEAL WORK ENVIRONMENT: 
-An ideal work environment is one that is conducive to productivity, promotes collaboration and communication, and supports the well-being and satisfaction of its employees. Some specific characteristics that might contribute to an ideal work environment include:
-Physical comfort: The physical space should be well-ventilated, well-lit, and comfortable to work in.
-Psychological safety: Employees should feel safe to express their ideas and concerns without fear of retribution.
-Supportive leadership: Leaders should be supportive and available to their team, and should provide guidance and direction.
-Clear expectations: There should be clear expectations for what is expected of employees in terms of their work, and the consequences for not meeting those expectations should be fair and transparent.
-Work-life balance: The company should support a healthy work-life balance and offer resources to help employees manage their time and workload effectively.
-Professional development: The company should provide opportunities for employees to learn and grow, both personally and professionally.
-Positive culture: The company culture should be positive and supportive, with a focus on teamwork, collaboration, and mutual respect.
-
-#### QUESTION 1: What does a good/ideal work environment look like to you?	
-#### QUESTION 2: What values are most important to you as a leader?	
-#### QUESTION 3: How does a manager recognize or highlight employees' work?	
-#### QUESTION 4: Do you prefer teamwork or working independently?	
-#### QUESTION 5: What can you do to motivate a team? 	
-#### QUESTION 6: Which communication style is better to maintain a healthy working environment?	
-#### QUESTION 7: How can you take part in improving the work environment? 	
-#### QUESTION 8: Explain a situation when you or any peer had a conflict at work and how you handled it.	
-#### QUESTION 9: We as humans are playing postive or negative role in human environment? If negative how to cope up with these issues
-#### QUESTION 10: What one word would you use to describe RevelTek Inc. work culture?
 
