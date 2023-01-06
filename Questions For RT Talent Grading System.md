@@ -227,10 +227,10 @@ Positive culture: The company culture should be positive and supportive, with a 
 #### QUESTION 2: What values are most important to you as a leader?	
 #### QUESTION 3: How does a manager recognize or highlight employees' work?	
 #### QUESTION 4: Do you prefer teamwork or working independently?	
-What can you do to motivate a team? 	
-Which communication style is better to maintain a healthy working environment?	
-How can you take part in improving the work environment? 	
-Explain a situation when you or any peer had a conflict at work and how you handled it.	
-we as humans are playing postive or negative role in human environment? If negative how to cope up with these issues? 	
-What one word would you use to describe RevelTek Inc. work culture?
+#### QUESTION 5: What can you do to motivate a team? 	
+#### QUESTION 6: Which communication style is better to maintain a healthy working environment?	
+#### QUESTION 7: How can you take part in improving the work environment? 	
+#### QUESTION 8: Explain a situation when you or any peer had a conflict at work and how you handled it.	
+#### QUESTION 9: We as humans are playing postive or negative role in human environment? If negative how to cope up with these issues
+#### QUESTION 10: What one word would you use to describe RevelTek Inc. work culture?
 
