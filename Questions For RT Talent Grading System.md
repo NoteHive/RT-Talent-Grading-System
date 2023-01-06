@@ -45,6 +45,21 @@ In essence, ikigai is a practical approach to figuring out that nagging question
 
 ### TIMMSI TRAINING
 
+#### Page 10 
+We prioritize growth, both personal and professional and start every team member in our fun, goofy, and silly Timmsi Training 
+program. From here, we recruit those who aren’t afraid of making mistakes – failing fast & failing hard. We laugh off our mistakes and 
+push forward with excitement. Those in our organization who stay enjoy taking action, being self-learners, and learning from their 
+own self-discovery. We don't measure our goals with just our achieved objectives, but with the knowledge and expertise we gained 
+along the way. We have our own universe in which we thrive and welcome people. Our philosophy is to bring about curiosity in any 
+way we can. As a company, we take on challenges we may not yet be prepared for, but our can-do attitude with curious minds always 
+brings us success and a fun journey. When it comes to education, we'll provide time and materials to anyone who wants to learn. We 
+are willing to go extra mile for the greater good in our work and in our communities. As our Timmsi Tots become more professional, 
+they help shape our culture with streamlined operations and objectives.
+
+*Question 1:* Tell me do you like to get training in Timmsi land?
+
+*Question 2:* Tell me are you goofy person or you afraid to making mistake and are you open to learn new things?
+
 ### SILK LIFE™
 
 We have developed The SILK Initiative™, by combining a focus 
@@ -60,6 +75,13 @@ vision and brand to create sustainable energy for their families.
 
 ### CURIOSITY COMMUNITY
 
+12 Page 
+Curiosity Community is a community to learn, 
+grow, and for career advancement. This global 
+community has various hives where members 
+mingle and collaborate.
+
+*Question 1:* Tell me about your hive what is your life goal?
 
 ### TAO LIFESTYLE
 
@@ -76,9 +98,9 @@ create augmented communities. The
 lifestyle we live in is filled with health, 
 science, family, fun and wholesomeness.
 
-*Question 1:* Tell us about your goal and or do you want to join our culture
+*Question 1:* Tell us about your goal and or do you want to join our culture?
 
-### bOUR IMPACT
+### OUR IMPACT
 
 ### DIVERSITY, EQUITY, & INCLUSION
 
