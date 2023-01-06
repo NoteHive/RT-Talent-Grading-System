@@ -222,3 +222,6 @@ Clear expectations: There should be clear expectations for what is expected of e
 Work-life balance: The company should support a healthy work-life balance and offer resources to help employees manage their time and workload effectively.
 Professional development: The company should provide opportunities for employees to learn and grow, both personally and professionally.
 Positive culture: The company culture should be positive and supportive, with a focus on teamwork, collaboration, and mutual respect.
+
+#### QUESTION: What does a good/ideal work environment look like to you?	
+
