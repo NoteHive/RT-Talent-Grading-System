@@ -189,13 +189,25 @@ finishing a goal. When done frequently, it encourages other people to get excite
  
  ### VIDEO EQUIPMENT
  
+ Video equipment refers to the various devices that are used to capture, record, and transmit video. These may include cameras, microphones, lighting equipment.
+ 
  *Question* Do you have webcam for your computer or laptop?	
+ 
+ *Question* Which kind of video equipment you us for video meeting?
  
  ### OFFICE FURNITURE
  
- *Question* Do you have proper sitting plan?
+ You will likely need some basic furniture to set up a comfortable and functional home office. Some common pieces of office furniture that may be useful for remote work
+
+ *Question 1* Do you have proper sitting plan?
+
+*Question 2* Desk: You'll need a flat surface to work on, whether it's a traditional desk or a standing desk.
+
+*Question 3* Chair: Choose a chair that is comfortable and supportive, as you'll likely be sitting for long periods of time.
+
+*Question 4* Lighting: Good lighting is important for a comfortable work environment. Consider adding a desk lamp or other sources of light to your home office.
  
- ### VUDEO CALL SHOWUP
+ ### VIDEO CALL SHOWUP
  
  A video call, also known as a videoconference, is a live, audio-visual connection between two or more people using the internet. Video calls allow people to communicate with each other using audio and video, and are often used as an alternative to in-person meetings or phone calls.
  
