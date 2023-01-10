@@ -81,7 +81,7 @@ grow, and for career advancement. This global
 community has various hives where members 
 mingle and collaborate.
 
-*Question 1:* Tell me about your hive what is your life goal?
+*Question 1:* Tell me about your hive and what is your life goal?
 
 ### TAO LIFESTYLE
 
@@ -103,10 +103,28 @@ science, family, fun and wholesomeness.
 ### OUR IMPACT
 
 ### DIVERSITY, EQUITY, & INCLUSION
+Page 14
+
+We welcome anyone, regardless of 
+ethnicity background who wants to learn 
+and improve their talents. Diversity and 
+the inclusion of people of different 
+culture or ethnic backgrounds 
+strengthens our teamwork even more.
+
 
 ### THE MODERN EMPLOYEE
 
+Page 21
+A modern employee is energetic, enthusiastic, and earnest in his work. He tackles his work and is a force to 
+be reckoned with professionally.
+
+
 ### DRESS CODE
+
+You’ve finally landed the work-at-home job of your dreams! But before you swap your three-piece suits and 
+button-down shirts for trouser pants and casual tees, make sure you come up with a game plan for your 
+work-from-home wardrobe.
 
 ### MINDFULLNESS
 
